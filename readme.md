@@ -4,7 +4,7 @@
 Lauren Hyoseo Yoon
 
 ## LINK
-[my page] 
+[my page] https://laurenhyoseoyoon.github.io/Generative-Coding-Project8/ 
 
 ## HOW THE MASKS WORK (FUNCTIONALITIES)
 - 1. First click Allow when the pop-up menus shows up in order go grant the video access of your laptop. 
