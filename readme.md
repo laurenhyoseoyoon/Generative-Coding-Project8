@@ -15,6 +15,9 @@ Lauren Hyoseo Yoon
 - The inspiration of these masks are from the recent Halloween. I aimed to create masks that would cover/transform the users' face into pumpkin or ghost. 
 - Please refer to Part 3 of the Functionalities in order to display the pumpkin mask and ghost mask. 
 - Please refer to 'pumpkin_simulation.gif' & 'ghost_simulation.gif' to see the samples of these masks. 
+<img> 
+  src="https://github.com/laurenhyoseoyoon/Generative-Coding-Project8/blob/main/drawings/ghost.png"
+</img>
 
 
 ## MASK 2: SQUID GAME MASK
